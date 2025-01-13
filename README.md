@@ -37,7 +37,7 @@ This dataset contains detailed information on sales transactions. Key columns in
 ## **Analysis and Visualizations**  
 Key analyses and visualizations include:  
 - **Sales Trends**: Analyzing sales and profit over time (monthly, yearly).
-- **Demographic Insights**: Visualizing sales distribution by age group, gender, and geography.  
+- **Demographic Insights**: Visualizing sales distribution by age group, gender, and geography.
 - **Product Performance**: Identifying top-selling and high-profit products.  
 - **Profitability Analysis**: Assessing profit margins across categories and regions.  
 
