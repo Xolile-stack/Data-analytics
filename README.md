@@ -46,6 +46,9 @@ Below is an example of the dataset:
 | 69  | Female | 146            | 286                | High             | No      | Yes                   | Yes      | 25.22 | No                  | Yes                 | No                   | High         | 8.74        | Medium            | 157                 | No                    |
 | 46  | Male   | 126            | 216                | Low              | No      | No                    | No       | 29.85 | No                  | Yes                 | Yes                  | Low          | 4.44        | Low               | 92                  | No                    |
 | 32  | Female | 122            | 293                | High             | Yes     | Yes                   | No       | 24.13 | Yes                 | No                  | Yes                  | High         | 5.25        | High              | 94                  | No                    |
+
+
+
 ![image](https://github.com/user-attachments/assets/7fef1f70-1d11-408e-848c-97c8b9040b9d)
 ![image](https://github.com/user-attachments/assets/8e97dde2-6dbf-4736-bfe7-d3ed1ac1d4f7)
 ![image](https://github.com/user-attachments/assets/9d7413c3-e4ca-4175-bd02-dbd101c75943)
