@@ -37,6 +37,7 @@ This dataset contains detailed information on sales transactions. Key columns in
 ## **Analysis and Visualizations**  
 Key analyses and visualizations include:  
 - **Sales Trends**: Analyzing sales and profit over time (monthly, yearly).
+  
 - **Demographic Insights**: Visualizing sales distribution by age group, gender, and geography.
 - **Product Performance**: Identifying top-selling and high-profit products.  
 - **Profitability Analysis**: Assessing profit margins across categories and regions.  
@@ -45,15 +46,17 @@ Key analyses and visualizations include:
 
 ## **Tools and Techniques**  
 - **Python**: Pandas, NumPy for data analysis  
-- **Visualization**: Matplotlib, Seaborn, Plotly for charts and graphs  
+- **Visualization**: Matplotlib, Seaborn, Plotly for charts and graphs
+- **Excel**: for Data cleaning
 - **Jupyter Notebooks**: For step-by-step analysis and insights  
-- **Dashboarding**: Tools like Tableau (if applicable) for creating interactive visualizations  
 
 ---
 
 ## **Results and Findings**  
 Through analysis, the following trends were identified:  
-- Youth customers (<25) account for a significant portion of sales in certain regions.  
+- Senior customers (64+) account for a significant portion of sales in certain regions.
+- Australia provide more revenue in the company.
+- In some years (2014 & 2016), the were no sales for other months.
 - **Accessories** and **Clothing** categories showed strong profitability.  
 - Seasonal sales fluctuations were observed, with certain products peaking at different times of the year.  
 
