@@ -37,10 +37,28 @@ This dataset contains detailed information on sales transactions. Key columns in
 ## **Analysis and Visualizations**  
 Key analyses and visualizations include:  
 - **Sales Trends**: Analyzing sales and profit over time (monthly, yearly).
-  
+  ![Total Profit by Year](https://github.com/user-attachments/assets/6c833e7b-40de-4434-9329-d87a4fdd7aac)
+  ![Monthly Profits in 2011](https://github.com/user-attachments/assets/b5f5e905-244e-430e-b760-99c17a57f1cd)
+  ![Monthly Profits in 2012](https://github.com/user-attachments/assets/dfbf12b0-f43a-4779-8af6-5e7fef3e15eb)
+![Monthly Profits in 2013](https://github.com/user-attachments/assets/056320f8-37de-4ed4-a372-03148b9ff522)
+![Monthly Profits in 2014](https://github.com/user-attachments/assets/0ecae7e2-45a6-4cc0-b559-ff58ddb786e7)
+![Monthly Profits in 2015](https://github.com/user-attachments/assets/b11993ba-51c7-4586-9764-d363f79d7d69)
+![Monthly Profits in 2016](https://github.com/user-attachments/assets/dd145001-32ba-4a48-b40d-3b7f40db7c79)
 - **Demographic Insights**: Visualizing sales distribution by age group, gender, and geography.
-- **Product Performance**: Identifying top-selling and high-profit products.  
+![Average Revenue by Customer Gender](https://github.com/user-attachments/assets/28660098-01d7-4544-8cbe-24261915d61e)
+
+![Average Order Quantity by Age Group](https://github.com/user-attachments/assets/26ce7681-9a13-49fd-ba9c-00a03d6ae2a4)
+
+- **Product Performance**: Identifying top-selling and high-profit products.  ![Profit Distribution by Product](https://github.com/user-attachments/assets/3d12d5d8-1aaf-400a-b0f3-82c479fec494)
+![Profit Distribution by State](https://github.com/user-attachments/assets/9e5e247b-3990-4f37-b8be-5afcff3c85b8)
+![Profit Distribution by Product](https://github.com/user-attachments/assets/3d12d5d8-1aaf-400a-b0f3-82c479fec494)
+![Profit Distribution by State](https://github.com/user-attachments/assets/9e5e247b-3990-4f37-b8be-5afcff3c85b8)
+![Average Unit Cost per Sub Category](https://github.com/user-attachments/assets/c7fd13da-85b2-497a-a82b-faccd68faf1f)
+![Cost by Product Category and Year](https://github.com/user-attachments/assets/8fbda488-f09d-49ac-8f9d-d7074044a3d4)
+
 - **Profitability Analysis**: Assessing profit margins across categories and regions.  
+![Revenue by Product Category and Year](https://github.com/user-attachments/assets/139683ee-0ffc-4c50-ae46-bf52f43dcdf7)
+![Average Revenue per State](https://github.com/user-attachments/assets/cf94b877-25f6-4de4-a1fa-53f0b1cbd7e9)
 
 ---
 
