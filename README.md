@@ -12,11 +12,9 @@ This project involves the analysis and visualization of footwear and apparel sal
 - [Tools and Techniques](#tools-and-techniques)  
 - [Results and Findings](#results-and-findings)  
 - [Repository Contents](#repository-contents)  
-- [How to Run](#how-to-run)  
-- [Installation](#installation)  
+- [How to Run](#how-to-run) 
 - [Examples of Visualizations](#examples-of-visualizations)  
-- [Contributing](#contributing)  
-- [License](#license)  
+ 
 
 ---
 
@@ -72,3 +70,5 @@ Key findings from the dataset include:
 - `visualizations/`: Saved charts and graphs generated during the analysis.  
 
 ---
+## **How to run**  
+- Download the Adidas dataset.pbix
