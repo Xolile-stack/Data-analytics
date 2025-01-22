@@ -86,4 +86,3 @@ These insights can guide future product development, marketing, and sales strate
 - `data/`: Contains the raw and cleaned datasets.  
 - `notebooks/`: Jupyter notebooks with detailed analysis and visualizations.  
 - `visualizations/`: Saved images of charts and graphs.  
-- `dashboard/`: (If applicable) Files for interactive dashboards (e.g., Tableau, Dash).  
