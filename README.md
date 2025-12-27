@@ -1,1 +1,1 @@
-Data Engineering 
+This repository showcases data analytics projects using Python, Power BI, and Excel, focusing on data cleaning, exploratory data analysis (EDA), visualisation, and insight generation from publicly available datasets sourced from Kaggle.
