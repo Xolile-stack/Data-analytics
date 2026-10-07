@@ -2,7 +2,23 @@
 
 Welcome to my Data Analytics Portfolio.
 
-This portfolio showcases end-to-end data analytics projects focused on transforming raw data into meaningful business insights. The projects demonstrate practical experience in data cleaning, SQL analysis, data visualisation, dashboard development and business-focused reporting.
+I am a data and project professional with over three years of experience working with data, reporting, project information and operational performance. My experience includes developing operational dashboards, analysing and presenting data, monitoring project performance and supporting data-driven reporting and decision-making.
+
+I have applied these skills in professional environments, including developing an operational Power BI dashboard for Eskom Transmission. Due to confidentiality requirements, some professional dashboards and organisational data cannot be published on GitHub.
+
+This portfolio therefore showcases practical projects that demonstrate my technical skills in SQL, Power BI, Python, Excel, data cleaning, data analysis and visualisation.
+
+## Core Competencies
+
+- Data Analysis and Interpretation
+- Data Cleaning and Preparation
+- Power BI Dashboard Development
+- SQL Data Analysis
+- KPI and Performance Reporting
+- Operational Data Analysis
+- Data Visualisation
+- Project Performance Monitoring
+- Business Insights and Reporting
 
 ## Technical Skills
 
