@@ -1,8 +1,21 @@
 #  Adidas Sales Data Analysis and Visualization  
 
 ## **Overview**  
-This project involves the analysis and visualization of footwear and apparel sales data in New York City. The dataset includes detailed transaction information such as product categories, prices, units sold, and profit margins. The goal is to identify patterns, trends, and actionable insights to optimize sales performance and profitability.
+Overview
 
+This project analyses Adidas footwear and apparel sales data across the United States using Microsoft Excel and Power BI. The analysis focuses on evaluating sales performance, identifying profitable product categories, comparing regional sales trends and assessing the performance of different sales methods.
+
+The project aims to transform sales data into meaningful business insights that can support data-driven decision-making, improve sales strategies and identify opportunities for increased profitability.
+
+Project Objectives
+The objectives of this project are to:
+Analyse sales revenue and operating profit across product categories.
+Evaluate regional sales performance and identify high-performing markets.
+Compare sales performance across online, in-store and outlet channels.
+Examine operating margins to understand product profitability.
+Present key findings through interactive Power BI dashboards.
+
+Identify opportunities to improve sales performance and profitability.
 ---
 
 ## **Table of Contents**  
