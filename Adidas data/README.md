@@ -1,8 +1,6 @@
 #  Adidas Sales Data Analysis and Visualization  
 
 ## **Overview**  
-Overview
-
 This project analyses Adidas footwear and apparel sales data across the United States using Microsoft Excel and Power BI. The analysis focuses on evaluating sales performance, identifying profitable product categories, comparing regional sales trends and assessing the performance of different sales methods.
 
 The project aims to transform sales data into meaningful business insights that can support data-driven decision-making, improve sales strategies and identify opportunities for increased profitability.
