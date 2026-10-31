@@ -1,68 +1,42 @@
-# Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio.
+# 📊 Data Analytics and Business Intelligence Portfolio
 
-I am a data and project professional with over three years of experience working with data, reporting, project information and operational performance. My experience includes developing operational dashboards, analysing and presenting data, monitoring project performance and supporting data-driven reporting and decision-making.
+### Transforming Data into Meaningful Business Insights
 
-I have applied these skills in professional environments, including developing an operational Power BI dashboard. Due to confidentiality requirements, some professional dashboards and organisational data cannot be published on GitHub.
+Welcome to my professional portfolio.
 
-This portfolio therefore showcases practical projects that demonstrate my technical skills in SQL, Power BI, Python, Excel, data cleaning, data analysis and visualisation.
+I am an **Information Science graduate** with over **three years of professional experience** in business data analysis, information management, IT project analysis, operational performance monitoring and reporting.
 
-## Core Competencies
+My professional background includes working as an **IT Project Analyst** and subsequently as a **Business Data Analyst** at African Proficient Software (APS), alongside experience in operational data analysis and performance reporting at Eskom.
 
-- Data Analysis and Interpretation
-- Data Cleaning and Preparation
-- Power BI Dashboard Development
-- SQL Data Analysis
-- KPI and Performance Reporting
-- Operational Data Analysis
-- Data Visualisation
-- Project Performance Monitoring
-- Business Insights and Reporting
+Throughout my career, I have:
 
-## Technical Skills
+- Analysed business and operational datasets to identify trends and performance gaps.
+- Supported IT project planning, monitoring and performance reporting.
+- Developed dashboards and reports to communicate business insights.
+- Worked with enterprise resource planning (ERP) systems and business information.
+- Supported data-driven decision-making through analysis and reporting.
 
-- **SQL:** SQL Server, data cleaning, aggregation, CTEs, window functions and exploratory analysis
-- **Power BI:** Interactive dashboards, DAX measures, KPI reporting and data visualisation
-- **Python:** Data analysis and data preparation
-- **Excel:** Data analysis, cleaning and reporting
-- **GitHub:** Project documentation and version control
+My technical capabilities include **Structured Query Language (SQL), Python, Microsoft Power BI, Excel, data cleaning, exploratory data analysis and data visualisation**.
 
-## Featured Projects
+This portfolio showcases my practical projects in **Data Analytics, Business Intelligence (BI) and Machine Learning (ML)**, demonstrating my ability to transform raw data into meaningful insights that support business decisions.
 
-### Financial and Technology Performance Analytics
-**Tools:** SQL Server, Power BI, DAX
+---
 
-End-to-end analysis of financial, operational, risk and technology performance. The project includes data profiling, SQL-based data cleaning, exploratory analysis, advanced SQL analysis and a three-page Power BI dashboard.
+## 🛠️ Technical Skills and Tools
 
-[View Project](Financial%20Technology%20Performance%20Analytics)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="65" height="55" alt="SQL Server"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="55" alt="Jupyter Notebook"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+</p>
 
-### Adidas Data Analysis
-Analysis of Adidas data to identify key sales and performance patterns.
+**Additional tools:** Microsoft Power BI | Microsoft Excel | SQL Server Management Studio | Matplotlib | Scikit-learn
 
-[View Project](Adidas%20data)
-
-### Heart Disease Data Analysis
-Data analysis project exploring patterns and factors within a heart disease dataset.
-
-[View Project](Heart%20disease%20data)
-
-### Sales Data Analysis
-Analysis of sales data to identify trends, performance patterns and business insights.
-
-[View Project](Sales%20data)
-
-## What This Portfolio Demonstrates
-
-Through these projects, I demonstrate the ability to:
-
-- Clean and prepare raw datasets for analysis.
-- Write SQL queries to investigate and analyse business data.
-- Identify trends, patterns and performance drivers.
-- Develop Power BI dashboards and KPI reports.
-- Translate analytical findings into clear business insights.
-- Provide data-driven recommendations to support decision-making.
-
-## Portfolio Focus
-
-I am continuing to develop this portfolio through practical projects in data analytics, business intelligence and data-driven decision-making.
+---
